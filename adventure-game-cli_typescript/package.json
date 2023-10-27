@@ -1,0 +1,19 @@
+{
+  "name": "adventure-game-cli_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.9"
+  }
+}

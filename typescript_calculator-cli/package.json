@@ -1,0 +1,28 @@
+{
+  "name": "@aliadnanrauf/typescript_calculator-cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./public/index.js",
+  "scripts": {
+    "start": "node ./public/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-Ali-Rauf/typescript_calculator-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammad-Ali-Rauf/typescript_calculator-cli/issues"
+  },
+  "homepage": "https://github.com/Mohammad-Ali-Rauf/typescript_calculator-cli#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
